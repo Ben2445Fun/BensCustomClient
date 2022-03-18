@@ -81,7 +81,7 @@
   <li>Run the <code>fabric-installer-0.10.2</code> executable.</li>
   <li>Select the latest version of Minecraft (currently 1.18.2).</li>
   <li>Select the latest version of the Loader (currently 0.13.3).</li>
-  <li>Select the correct install pather of your <code>.minecraft</code> folder (default: c:\users\{user}\appdata\roaming\.minecraft).</li>
+  <li>Select the correct install pathe of your <code>.minecraft</code> folder (default: c:\users\{user}\appdata\roaming\.minecraft).</li>
   <li>Check <code>Create Profile</code>.</li>
   <li>Wait for the Installer to finish.</li>
   <li>Once done installing, find your mods folder (default: c:\users\{user}\appdata\roaming\.minecraft\mods).<ul>
