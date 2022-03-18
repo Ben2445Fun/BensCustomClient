@@ -7,18 +7,20 @@ Mods Included:
 
 Advancement Plaques
 Advancements Enlarger
-Anti Tool Break
+AntiGhost
 Appleskin
 Architectury API
+Auth Me
 Balm
 Better Beds
 Better Biome Blend
 Better Fps - Render Distance
-Better Third Person
 BetterF3
 Blur
+Borderless Mining
 Chat Heads
 Clear Despawn
+Client Side Noteblocks
 Client Tweaks
 Cloth API
 Cloth Config API
@@ -26,6 +28,7 @@ Continuity
 Controlling
 CraftPresence
 Cull Leaves
+Custom Entity Models (Untested)
 Dark Loading Screen
 Detailed Debug Pie
 Dynamic FPS
@@ -35,6 +38,8 @@ Fabric Capes
 Fabric Language Kotlin
 FastOpenLinksAndFolders
 FerriteCore
+Forge Config API Port
+Freecam (Untested | Potential Multiplayer Ban)
 FuelInfo
 GoogleChat
 Horse Stats Vanilla
@@ -44,17 +49,18 @@ Interactic
 Inventory HUD+
 Inventory Profiles Next
 Iris Shaders
+Item Borders
 Krypton
 LambdaBetterGrass
 LambDynamicLights
+Lazy Language Loader
 LazyDFU
+Legendary Tooltips
 Lithium
 Mod Menu
 Mouse Tweaks
-No Telemetry
 NoChatLag
 Ok Zoomer
-Pling
 Presence Footsteps
 Reese's Sodium Options
 Roughly Enough Items
@@ -66,7 +72,9 @@ Sound Physics Remastered
 Starlight
 TieFix
 ToolTipFix
-WorldEdit
+Unobtainables
+Where's My Chat History?
+WMITAF
 WTHIT
 Xaero's Minimap
 Xaero's World Map
