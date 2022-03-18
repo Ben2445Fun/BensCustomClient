@@ -35,9 +35,8 @@
 <li>FastOpenLinksAndFolders</li>
 <li>FerriteCore</li>
 <li>Forge Config API Port</li>
-<li>Freecam (Untested | Potential Multiplayer Ban)</li>
+<li>Freecam (Potential Multiplayer Ban)</li>
 <li>FuelInfo</li>
-<li>GoogleChat</li>
 <li>Horse Stats Vanilla</li>
 <li>Icberg</li>
 <li>Indium</li>
@@ -71,6 +70,7 @@
 <li>Unobtainables</li>
 <li>Where's My Chat History?</li>
 <li>WMITAF</li>
+<li>Worldedit</li>
 <li>WTHIT</li>
 <li>Xaero's Minimap</li>
 <li>Xaero's World Map</li>
@@ -79,7 +79,7 @@
 <h2>How To Use:</h2>
 <ol>
   <li>Run the <code>fabric-installer-0.10.2</code> executable.</li>
-  <li>Select the latest version of Minecraft (currently 1.18.2).</li>
+  <li>Select <code>1.18.1</code> for the <code>Minecraft Version</code> (Warning: This modpack does not support 1.18.2.)</li>
   <li>Select the latest version of the Loader (currently 0.13.3).</li>
   <li>Select the correct install pather of your <code>.minecraft</code> folder (default: c:\users\{user}\appdata\roaming\.minecraft).</li>
   <li>Check <code>Create Profile</code>.</li>
