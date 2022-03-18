@@ -1,5 +1,5 @@
 <h1>Ben's Custom Client<br />By Ben2445Fun</h1>
-Mods Included:
+<h2>Mods Included:</h2>
 <ul>
 <li>Advancement Plaques</li>
 <li>Advancements Enlarger</li>
@@ -75,3 +75,20 @@ Mods Included:
 <li>Xaero's Minimap</li>
 <li>Xaero's World Map</li>
 </ul>
+<hr />
+<h2>How To Use:</h2>
+<ol>
+  <li>Run the <code>fabric-installer-0.10.2</code> executable.</li>
+  <li>Select the latest version of Minecraft (currently 1.18.2).</li>
+  <li>Select the latest version of the Loader (currently 0.13.3).</li>
+  <li>Select the correct install pather of your <code>.minecraft</code> folder (default: c:\users\{user}\appdata\roaming\.minecraft).</li>
+  <li>Check <code>Create Profile</code>.</li>
+  <li>Wait for the Installer to finish.</li>
+  <li>Once done installing, find your mods folder (default: c:\users\{user}\appdata\roaming\.minecraft\mods).<ul>
+    <li>If there are already items in your mods folder, move/remove them from the folder.</li>
+    <li>If the mods folder doesn't exist, run the <code>fabric</code> profile from the Minecraft Launcher.</li>
+  </ul></li>
+  <li>Move all of the <code>.jar</code> files from the <code>Mods</code> folder found in this directory over to the <code>.minecraft</code> mods folder.</li>
+  <li>Launch the Minecraft Launcher and run the <code>Fabric</code> profile.</li>
+  <li>Enjoy!</li>
+</ol>
